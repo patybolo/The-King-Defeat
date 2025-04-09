@@ -19,3 +19,4 @@ Create a new project using the Universal 3D template
 
 Delete the created Assets folder and clone this repository inside the main project folder
 
+Import the Cinemachine package from the Package Manager

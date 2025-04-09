@@ -15,8 +15,8 @@ This was a test project while learning how to use the Unity Engine.
 
 Importing this repository into Unity requires version [2022.3.59f1](https://unity.com/releases/editor/archive)
 
-Create a new project using the Universal 3D template
+- Create a new project using the Universal 3D template
 
-Delete the created Assets folder and clone this repository inside the main project folder
+- Delete the created Assets folder and clone this repository inside the main project folder
 
-Import the Cinemachine package from the Package Manager
+- Import the Cinemachine package from the Package Manager
